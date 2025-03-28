@@ -1,0 +1,23 @@
+{
+  "name": "image-optimization",
+  "version": "1.0.0",
+  "description": "A tool to optimize images for web use",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "image",
+    "optimization",
+    "compression",
+    "webp",
+    "jpeg",
+    "png"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^7.2.0",
+    "sharp": "^0.30.0"
+  }
+}
